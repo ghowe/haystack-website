@@ -8,6 +8,7 @@ make sure to update Node to the latest version):
 yarn install
 ```
 
+
 Part of the documentation source lives within the [Haystack repo](https://github.com/deepset-ai/haystack)
 and the build system expects to find it locally, so before running the development
 server run this command to get a local copy of Haystack:
